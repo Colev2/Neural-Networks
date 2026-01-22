@@ -7,4 +7,4 @@ This assignment focuses on Convolutional Neural Networks (CNNs).
 - Erg_1.pdf: Assignment report
 
 ## Description
-Implementation and evaluation of a CNN model as part of the Neural Networks course.
+Implementation and evaluation of a CNN model as a classifier, as part of the Neural Networks course.
